@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Otomatto
+- 🔭 I’m currently working at Otomatto
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter Mobile
+- 👯 I’m trying to develop Mobile App on Flutter
 
 
 
