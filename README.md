@@ -1,6 +1,7 @@
-### Hi there 👋 I'am Cansu Uzunşimşek
+  ### Hi there 👋
 
 
+  #I am Cansu Uzunşimşek
 
 - 🔭 I’m currently working at MaxiThings
 - 🌱 I’m currently learning Flutter
