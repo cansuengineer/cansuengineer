@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at MaxiThings
 
-- 👯 I’m trying to develop Mobile App on Flutter
+- 👯 I have developing Mobile and Web App on Flutter
 
 
 
