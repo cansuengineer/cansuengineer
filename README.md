@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Destech
 
-- 👯 I have developing Mobile and Web App on Flutter
+- 👯 I am currently working on Mobile and Web App on Flutter
 
 
 
