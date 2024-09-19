@@ -1,7 +1,7 @@
   ### Hi there 👋
 
 
-     I am Cansu Uzunşimşek
+     I am Cansu Sarp
 
 - 🔭 I’m currently working at Etiya
 
