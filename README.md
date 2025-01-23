@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
+![Banner](profileavatarbanner.png)
 
 🚀 Hey, I'm Cansu Sarp – a driven Software Developer and Technical Analyst passionate about creating immersive digital experiences. 💻✨
 
