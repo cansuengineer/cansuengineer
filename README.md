@@ -10,4 +10,5 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 💬 Ask me about Cats.
 - ⚡ Fun fact: I like to watching Japanese anime
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Cansu's Github Stats](https://github-readme-stats.vercel.app/api?username=cansuengineer
+)](https://github.com/anuraghazra/github-readme-stats)
