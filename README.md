@@ -9,5 +9,3 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 😀 In my free time I like to draw, code, read and take artistic photos.
 - 💬 Ask me about Cats.
 
-[![Cansu's Github Stats](https://github-readme-stats.vercel.app/api?username=cansuengineer
-)](https://github.com/anuraghazra/github-readme-stats)
