@@ -15,11 +15,11 @@
 
 ## 💫 About Me
 
-- Passionate about mobile app development with a focus on **Flutter** and **SwiftUI**.
-- Always exploring clean and responsive **UI/UX designs**.
-- Constantly learning new technologies and best practices.
+- Passionate about mobile app development with a focus on **Flutter** and **SwiftUI**.  💻✨
+- Always exploring clean and responsive **UI/UX designs**.  🔭
+- Constantly learning new technologies and best practices.  🌱
 - In love with creating beautiful, functional apps — and also a cat lover 🐱
-- In my free time, I enjoy drawing, reading, and taking artistic photos.
+- In my free time, I enjoy drawing, reading, and taking artistic photos.  😀
 
 ---
 
