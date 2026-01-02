@@ -78,7 +78,7 @@ I'm always open to:
 <p align="center">
   <img src="Cilek_Gif.gif" width="220" />
   <img src="Gemini_Gif.gif" width="220" />
-    <img src="geyik_gif.gif width="220" />
+  <img src="geyik_gif.gif" width="220" />
 </p>
 />
 
