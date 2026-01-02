@@ -69,6 +69,7 @@ I'm always open to:
 > “Code is how I turn ideas into reality — and cats make the debugging process better.” 🐾
 
 ---
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b747d751-43aa-429b-8ebb-916923d9425f" />
 
 <p align="center">
   Thank you for visiting my profile 💜
