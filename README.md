@@ -78,6 +78,8 @@ I'm always open to:
 
 ![Image](https://github.com/user-attachments/assets/0c142f58-2878-4a55-a3c7-67d3989d7395)
 
+❮img src="[images/you-picture.png](https://github.com/user-attachments/assets/0c142f58-2878-4a55-a3c7-67d3989d7395)" width="100" ❯
+
 <p align="center">
   Thank you for visiting my profile 💜
 </p>
