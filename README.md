@@ -69,10 +69,18 @@ I'm always open to:
 > “Code is how I turn ideas into reality — and cats make the debugging process better.” 🐾
 
 ---
-<img src="gif.gif" width="300" />
-<img src="Balik_Gif.gif" width="300" />
-<img src="Ci1gif.gif" width="300" />
-<img src="Cilek_Gif.gif" width="300" />
+<p align="center">
+  <img src="gif.gif" width="220" />
+  <img src="Balik_Gif.gif" width="220" />
+  <img src="Ci1gif.gif" width="220" />
+</p>
+
+<p align="center">
+  <img src="Cilek_Gif.gif" width="220" />
+  <img src="Gemini_Gif.gif" width="220" />
+    <img src="Geyik gif.gif width="220" />
+</p>
+/>
 
 
 <p align="center">
