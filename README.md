@@ -69,6 +69,7 @@ I'm always open to:
 > “Code is how I turn ideas into reality — and cats make the debugging process better.” 🐾
 
 ---
+<img src="gif.gif" width="700" />
 
 
 <p align="center">
