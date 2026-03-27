@@ -80,7 +80,7 @@ I'm always open to:
   <img src="Gemini_Gif.gif" width="220" />
   <img src="geyik_gif.gif" width="220" />
 </p>
-/>
+
 
 
 <p align="center">
