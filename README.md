@@ -81,7 +81,10 @@ I'm always open to:
   <img src="geyik_gif.gif" width="220" />
 </p>
 
+<p align="center">
+  <img src="Tatlı_Gif.gif" width="420" />
 
+</p>
 
 <p align="center">
   Thank you for visiting my profile 💜
