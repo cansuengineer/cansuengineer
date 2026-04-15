@@ -48,7 +48,7 @@ A Flutter starter template for quickly building and publishing tutorial-style ap
 🔗 https://github.com/cansuengineer/base_tutorial_app
 
 - 🎨 art
-A Flutter project focused on UI design, creative layouts, and visual experimentation.  
+A Front-end project focused on UI design, creative layouts, and visual experimentation.  
 🔗 https://github.com/cansuengineer/art
 
 > 💡 Most of my projects are focused on **UI design and practical state management** in Flutter.
