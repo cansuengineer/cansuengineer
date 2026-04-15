@@ -82,8 +82,8 @@ I'm always open to:
 </p>
 
 <p align="center">
-  <img src="Tatlı_Gif.gif" width="420" />
-    <img src="Geyikgif.gif" width="420" />
+  <img src="Tatlı_Gif.gif" width="320" />
+    <img src="Geyikgif.gif" width="320" />
 
 </p>
 
