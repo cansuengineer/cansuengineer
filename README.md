@@ -83,7 +83,7 @@ I'm always open to:
 
 <p align="center">
   <img src="Tatlı_Gif.gif" width="320" />
-    <img src="Geyikgif.gif" width="320" />
+    <img src="squid.gif" width="320" />
 
 </p>
 
