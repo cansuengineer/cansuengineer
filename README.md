@@ -40,9 +40,16 @@
 Here are some of the projects I'm proud to share (check my pinned repos!):
 
 - 🛒 **grocery_app** — Modern UI for a grocery shopping app *(Flutter)*
+  
 - 💳 **fintech_app** — A clean and minimal fintech mobile interface
-- 🔄 **placeholder** — JSON API integration example in Flutter
-- 🔐 **auth_provider** — Authentication using Flutter & Provider
+
+- 📱 base_tutorial_app
+A Flutter starter template for quickly building and publishing tutorial-style apps.  
+🔗 https://github.com/cansuengineer/base_tutorial_app
+
+- 🎨 art
+A Flutter project focused on UI design, creative layouts, and visual experimentation.  
+🔗 https://github.com/cansuengineer/art
 
 > 💡 Most of my projects are focused on **UI design and practical state management** in Flutter.
 
